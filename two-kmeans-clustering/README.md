@@ -119,6 +119,7 @@ plt.show()
 ```
 
 Result:
+<br>
 ![output](output.png)
 
 ### End of The Line
