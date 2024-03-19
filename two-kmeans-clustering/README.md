@@ -124,11 +124,6 @@ Result:
 
 ### End of The Line
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Thank You!");
-    return 0;
-}
+```sh
+echo "Thank You!"
 ```
